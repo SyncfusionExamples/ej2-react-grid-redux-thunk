@@ -1,0 +1,54 @@
+{
+    "countries": [
+      {
+        "id": "1",
+        "name": "Finlandtest1111",
+        "capital": "Helsinki"
+      },
+      {
+        "id": "2",
+        "name": "Norway",
+        "capital": "Oslo"
+      },
+      {
+        "id": "3",
+        "name": "Japantest11",
+        "capital": "Tokyo"
+      },
+      {
+        "id": "4",
+        "name": "Germany",
+        "capital": "Berlin"
+      },
+      {
+        "id": "5",
+        "name": "Russia",
+        "capital": "Moscow"
+      },
+      {
+        "id": "6",
+        "name": "Kenya",
+        "capital": "Nairobi"
+      },
+      {
+        "id": "7",
+        "name": "Swedentest",
+        "capital": "Stockholm"
+      },
+      {
+        "id": "1",
+        "name": "Finlandtest1",
+        "capital": "Helsinki"
+      },
+      {
+        "id": "2",
+        "name": "Norway-test",
+        "capital": "Oslo"
+      },
+      {
+        "id": "4",
+        "name": "Germany-test",
+        "capital": "Berlin"
+      }
+    ]
+  }
